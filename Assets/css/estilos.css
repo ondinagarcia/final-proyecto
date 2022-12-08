@@ -31,8 +31,10 @@ body{
 }
 
 
+
 .x{
     width: 4%;
+    margin-left: 90%;
 }
 
 #box{
@@ -340,14 +342,14 @@ summary{
         margin-left: 15%;
         position: absolute;
         left: 60%;
-        top: 28%;
+        top: 25%;
     
     }
 
     .x{
         width: 10%;
         height: 18%;
-        margin-bottom: ;
+      
     }
     
    
@@ -371,8 +373,8 @@ summary{
   
    
 }
-.x{
-    margin-top: 60%;
+.img-x{
+   top: 45% ;
 }
 
 }
