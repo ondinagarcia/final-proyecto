@@ -346,7 +346,8 @@ summary{
 
     .x{
         width: 10%;
-        height: 18%; 
+        height: 18%;
+        margin-bottom: ;
     }
     
    
@@ -371,7 +372,7 @@ summary{
    
 }
 .x{
-    
+    margin-top: 60%;
 }
 
 }
